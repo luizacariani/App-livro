@@ -1,0 +1,155 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "1"
+      },
+      "fields": {
+        "title": "o corvo",
+        "author": "edgar allan poe",
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/ed1.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2"
+      },
+      "fields": {
+        "title": "histórias extraordinárias",
+        "author": "edgar allan poe",
+         "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/ed2.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3"
+      },
+      "fields": {
+        "title": "o gato preto",
+        "author": "edgar allan poe",
+        "genre": "terror",
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/ed3.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4"
+      },
+      "fields": {
+        "title": "animais fantásticos e onde habitam",
+        "author": "j.k. rowling",
+        "genre": "fantasia",
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/jk1.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5"
+      },
+      "fields": {
+        "title": "harry potter e a criança amaldiçoada",
+        "author": "j.k. rowling",
+        "genre": "fantasia",
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/jk2.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6"
+      },
+      "fields": {
+        "title": "harry potter e o cálice de fogo",
+        "author": "j.k. rowling",
+        "genre": "fantasia",
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/jk3.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "7"
+      },
+      "fields": {
+        "title": "pippi meialonga",
+        "author": "astrid lindgren",
+        "genre": "infantil",
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/pipi1.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8"
+      },
+      "fields": {
+        "title": "pippi a bordo",
+        "author": "astrid lindgren",
+        "genre": "infantil",
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/pipi2.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "9"
+      },
+      "fields": {
+        "title": "pippi nos mares do sul",
+        "author": "astrid lindgren",
+        "genre": "infantil",
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/pipi3.jpg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
