@@ -6,7 +6,8 @@
       },
       "fields": {
         "title": "o corvo",
-        "author": "edgar allan poe",
+         "author": "edgar allan poe",
+        "genre": "terror",
         "image": {
           "fields": {
             "file": {
@@ -22,7 +23,8 @@
       },
       "fields": {
         "title": "histórias extraordinárias",
-        "author": "edgar allan poe",
+         "author": "edgar allan poe",
+        "genre": "terror",
          "image": {
           "fields": {
             "file": {
